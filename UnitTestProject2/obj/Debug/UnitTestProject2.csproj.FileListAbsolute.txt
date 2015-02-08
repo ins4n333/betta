@@ -1,0 +1,5 @@
+C:\Users\shcheglovitov\Documents\Visual Studio 2013\Projects\TestSite\betta\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+C:\Users\shcheglovitov\Documents\Visual Studio 2013\Projects\TestSite\betta\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+C:\Users\shcheglovitov\Documents\Visual Studio 2013\Projects\TestSite\betta\UnitTestProject2\obj\Debug\UnitTestProject2.csprojResolveAssemblyReference.cache
+C:\Users\shcheglovitov\Documents\Visual Studio 2013\Projects\TestSite\betta\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+C:\Users\shcheglovitov\Documents\Visual Studio 2013\Projects\TestSite\betta\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
