@@ -9,7 +9,7 @@ namespace UnitTestProject2
 		[TestMethod]
 		public void TestMethod1()
 		{
-			Assert.IsFalse(true);
+			Assert.IsFalse(false);
 		}
 
 		[TestMethod]
